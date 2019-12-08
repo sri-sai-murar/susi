@@ -30,6 +30,8 @@ no mention
 what are the best websites to visit in summer holidays
 summer code in,fossasia
 
+<script type="text/javascript"id="susi-bot-script" data-userid="6b0584f648e828942669fb08dfea299e" data-group="Knowledge" data-language="en"data-skill="" src="https://susi.ai/susi-chatbot.js"></script>
+
  </body>
 </html>
 
